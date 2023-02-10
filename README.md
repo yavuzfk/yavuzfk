@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yavuz KARABIYIK</h1>
 <h3 align="center">Software Engineer | Flutter Developer</h3>
 
-- 📝 I regularly write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
+- 📝 I rarely write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
 - 💬 Ask me about **flutter, mobile application developer**
 
