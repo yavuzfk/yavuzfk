@@ -3,7 +3,7 @@
 
 - 📝 I rarely write articles on [https://medium.com/me/stories/public](https://medium.com/me/stories/public)
 
-- 💬 Ask me about **flutter, mobile application developer**
+- 💬 Ask me about **flutter, mobile application development**
 
 - 📫 How to reach me **yavuzfk@hotmail.com**
 
